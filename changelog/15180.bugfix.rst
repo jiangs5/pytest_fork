@@ -1,0 +1,1 @@
+Keep ``faulthandler_timeout`` active during fixture teardown after a test failure.
